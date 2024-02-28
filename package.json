@@ -1,0 +1,19 @@
+{
+  "name": "youtube-clone-app",
+  "version": "1.0.0",
+  "description": "Nothing big just making project of clone youtube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Youtube",
+    "clone",
+    "chai",
+    "or",
+    "backend",
+    "JavaScript"
+  ],
+  "author": "Awaiskhan",
+  "license": "ISC"
+}
