@@ -2,9 +2,11 @@
   "name": "youtube-clone-app",
   "version": "1.0.0",
   "description": "Nothing big just making project of clone youtube.",
+  "type": "module",
   "main": "index.js",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "Youtube",
@@ -15,5 +17,8 @@
     "JavaScript"
   ],
   "author": "Awaiskhan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
